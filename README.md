@@ -1,39 +1,39 @@
-<h1>Privacy Policy for Cryptofy</h1>
+# Privacy Policy for Cryptofy
 
-<p>At Cryptofy, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Cryptofy and how we use it.</p>
+Last updated: 11 October 2026
 
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at <CryptofyApp@outlook.com>.
+Cryptofy helps you follow cryptocurrency prices and manage trade information. This policy explains what happens to data when you use its online features. For questions or deletion requests, contact CryptofyApp@outlook.com.
 
-<h2>Log Files</h2>
+## Data stored on your device
 
-<p>Cryptofy Doesn't use any log files, Cryptodfy doesn't track any movement arount the app or shares any data whatsoever.</p>
+Your wallets, trade amounts, notes, and other local trade details remain on your device. They are not sent to the Cryptofy alerts backend.
 
-<h2>Our Advertising Partners</h2>
+## Market prices
 
-<p>Cryptofy doesn't have any advertising partner and doesn't share any data with third parties.</p>
+When the app requests market prices, Cryptofy's server processes the request and the technical connection information needed to respond.
 
-<h2>Privacy Policies</h2>
+## Smart Trade Guard notifications
 
-<P>You may consult this list to find the Privacy Policy for each of the advertising partners of Cryptofy.</p>
+Smart Trade Guard is optional. If you enable its alerts, the app sends an installation identifier, an Apple Push Notification service (APNs) device token, and App Attest verification data to Cryptofy's alerts backend. It also sends the asset, quote currency, target price, alert direction, and alert type needed to evaluate your alert.
 
-<p>Cryptofy doesn't have any advertising partner! General information: Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Beacons that are used in their respective advertisements and links that appear on Cryptofy. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on this app or other apps or websites.</p>
+The backend links these settings to your installation to evaluate price changes, protect registration against misuse, and send notifications. It does not receive your wallet name, position size, entry amount, notes, screenshots, or exchange credentials.
 
-<p>Note that Cryptofy doesn't have any advertising partner!</p>
+The APNs token is encrypted in the backend database. Alert rules expire after no more than 90 days. Notification delivery records expire after no more than 24 hours. Installation and verification records may remain while needed to operate the alert service. You can request deletion by emailing CryptofyApp@outlook.com.
 
-<h2>Third Party Privacy Policies</h2>
+Cryptofy sends notification content through Apple's APNs service for delivery to your device. Notifications may contain the asset and relevant target and observed prices.
 
-<p>Cryptofy's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.</p>
+## Exchange connections
 
-<h2>Children's Information</h2>
+If you connect an exchange such as OKX, the app communicates with that exchange to provide the connection. The Cryptofy alerts backend does not receive your exchange API credentials. The exchange's own privacy policy applies to its processing of your data.
 
-<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
+## Advertising and tracking
 
-<p>Cryptofy does not knowingly collect any Personal Identifiable Information from children under the age of 13 or any other user. If you think that your child provided this kind of information on our App, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+Cryptofy does not use this data for advertising or to track you across other companies' apps or websites.
 
-<h2>Online Privacy Policy Only</h2>
+## Children
 
-<p>This Privacy Policy applies only to our online activities and is valid for visitors to our App with regards to the information that they shared and/or collect in Cryptofy. This policy is not applicable to any information collected offline or via channels other than this app.</p>
+Cryptofy is not directed at children under 13. If you believe a child has provided data to us, contact CryptofyApp@outlook.com.
 
-<h2>Consent</h2>
+## Changes and contact
 
-<p>By using our app, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.</p>
+We may update this policy when the app or its services change. The updated text and date will appear on this page. For privacy questions or deletion requests, email CryptofyApp@outlook.com.
